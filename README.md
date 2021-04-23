@@ -20,3 +20,6 @@
  - Exercism 
  
 ------------------------------------------------------------------------------
+<h2> Week-2 Homeworks </h2>
+* If let - guard let kullanım tercihlerini neye göre belirlersiniz?
+* Bir Oyun senaryosu  için dönme açıları ile ilgili bir switch case yapısı deneyiniz
