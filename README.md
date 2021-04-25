@@ -21,5 +21,9 @@
  
 ------------------------------------------------------------------------------
 <h2> Week-2 Homeworks </h2>
-* If let - guard let kullanım tercihlerini neye göre belirlersiniz?
-* Bir Oyun senaryosu  için dönme açıları ile ilgili bir switch case yapısı deneyiniz
+* If let - guard let kullanım tercihlerini neye göre belirlersiniz? <br>
+* Bir Oyun senaryosu  için dönme açıları ile ilgili bir switch case yapısı deneyiniz <br>
+* Girilen sayının asal olup olmadığını bulan bir extension yazınız. <br>
+* İki Parametreli ve Farklı Tipli bir generic örneği yapınız (T,U) <br>
+* Euler projectden 7. ve 8. soruları çözünüz <br>
+* Şişe vurma oyununu kodlayınız
