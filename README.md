@@ -27,3 +27,18 @@
 * İki Parametreli ve Farklı Tipli bir generic örneği yapınız (T,U) <br>
 * Euler projectden 7. ve 8. soruları çözünüz <br>
 * Şişe vurma oyununu kodlayınız
+
+--------------------------------------------------------------------------------
+<h2> Week-2 Homeworks </h2>
+* Frame vs Bounds açıklayınız
+* UIViewController yaşam döngüsünü araştırıp her bir methodu kendi cümlelerinizle özetleyiniz
+* PageControll kullanarak active sayfayı belirleyiniz(8 Mayıs)
+* Searchbar || SearchController => cell için custom bir cell tanımlayınız. Veri bulunamadığında ÖZEL bir mesaj gösteriniz.
+* Notification sender daki mesajı kullanıcıdan alınız..
+* static keyword neden kullanırız. Örnek bir kullanım yapınız
+
+<h3> Bakınız </h3>
+* https://stackoverflow.com/questions/56525604/difference-between-uisearchbar-and-uisearchbarcontroller#:~:text=UISearchBar%20is%20a%20view.,abstract%20behaviour%20of%20%22searching%22.
+* https://developer.apple.com/documentation/foundation/notificationcenter
+* https://medium.com/nsistanbul/notification-center-nedir-nasıl-kullanılır-f8327bff4c9c
+* https://medium.com/nsistanbul/notification-center-ii-c697908aa387
