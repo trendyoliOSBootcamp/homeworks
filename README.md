@@ -29,7 +29,7 @@
 * Şişe vurma oyununu kodlayınız
 
 --------------------------------------------------------------------------------
-<h3> Week-2 Homeworks </h3>
+<h3> Week-3 Homeworks </h3>
 * Frame vs Bounds açıklayınız <br>
 * UIViewController yaşam döngüsünü araştırıp her bir methodu kendi cümlelerinizle özetleyiniz <br>
 * PageControll kullanarak active sayfayı belirleyiniz(8 Mayıs) <br>
