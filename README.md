@@ -29,13 +29,17 @@
 * Şişe vurma oyununu kodlayınız
 
 --------------------------------------------------------------------------------
-<h2> Week-2 Homeworks </h2>
-* Frame vs Bounds açıklayınız
-* UIViewController yaşam döngüsünü araştırıp her bir methodu kendi cümlelerinizle özetleyiniz
-* PageControll kullanarak active sayfayı belirleyiniz(8 Mayıs)
-* Searchbar || SearchController => cell için custom bir cell tanımlayınız. Veri bulunamadığında ÖZEL bir mesaj gösteriniz.
-* Notification sender daki mesajı kullanıcıdan alınız..
-* static keyword neden kullanırız. Örnek bir kullanım yapınız
+<h3> Week-2 Homeworks </h3>
+* Frame vs Bounds açıklayınız <br>
+* UIViewController yaşam döngüsünü araştırıp her bir methodu kendi cümlelerinizle özetleyiniz <br>
+* PageControll kullanarak active sayfayı belirleyiniz(8 Mayıs) <br>
+* Searchbar || SearchController => cell için custom bir cell tanımlayınız. Veri bulunamadığında ÖZEL bir mesaj gösteriniz. <br>
+* Notification sender daki mesajı kullanıcıdan alınız.. <br>
+* static keyword neden kullanırız. Örnek bir kullanım yapınız <br>
+* Harita uygulamanızda, izni kapalı olan kullanıcıyı ayarlara yönlendiriniz
+* Bir harita uygulamasında mevcut konuma pinleme yapıp, adrese çeviriniz. (Örnek : Getir)
+* loadView ı araştırınız.
+* Bilet - Yolcu - Saat - Tarih sınıfları kullanılarak bir bilet alma uygulaması yapılacak (Detaylar pdf bir dosya ile yüüklenecek)
 
 <h3> Bakınız </h3>
 * https://stackoverflow.com/questions/56525604/difference-between-uisearchbar-and-uisearchbarcontroller#:~:text=UISearchBar%20is%20a%20view.,abstract%20behaviour%20of%20%22searching%22.
