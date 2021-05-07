@@ -32,7 +32,7 @@
 <h3> Week-3 Homeworks </h3>
 * Frame vs Bounds açıklayınız <br>
 * UIViewController yaşam döngüsünü araştırıp her bir methodu kendi cümlelerinizle özetleyiniz <br>
-* PageControll kullanarak active sayfayı belirleyiniz(8 Mayıs) <br>
+* UIPageControl kullanarak active sayfayı belirleyiniz(8 Mayıs) <br>
 * Searchbar || SearchController => cell için custom bir cell tanımlayınız. Veri bulunamadığında ÖZEL bir mesaj gösteriniz. <br>
 * Notification sender daki mesajı kullanıcıdan alınız.. <br>
 * static keyword neden kullanırız. Örnek bir kullanım yapınız <br>
